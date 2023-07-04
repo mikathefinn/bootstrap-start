@@ -7,3 +7,18 @@ body {
 .text-muted {
   color: rgb(127, 221, 255) !important;
 }
+
+.row {
+  margin-top: 3rem;
+}
+
+.line {
+  background-color: rgba(41, 171, 227, 0.907);
+  height: 2px;
+  width: 100%;
+  margin-bottom: 4rem;
+  margin-top: 3rem;
+}
+.first-line {
+  margin: 0;
+}
