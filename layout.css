@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+  color: rgba(41, 171, 227, 0.907);
+  text-shadow: 1px 1px 4px rgba(6, 0, 168, 0.931);
+}
+
+.text-muted {
+  color: rgb(127, 221, 255) !important;
+}
